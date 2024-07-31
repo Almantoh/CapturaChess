@@ -1,0 +1,13 @@
+An example picture from the deteccion_piezas_ajedrez3.0 dataset depicting a Alfil_0
+An example picture from the deteccion_piezas_ajedrez3.0 dataset depicting a Alfil_1
+An example picture from the deteccion_piezas_ajedrez3.0 dataset depicting a Caballo_0
+An example picture from the deteccion_piezas_ajedrez3.0 dataset depicting a Caballo_1
+An example picture from the deteccion_piezas_ajedrez3.0 dataset depicting a Dama_0
+An example picture from the deteccion_piezas_ajedrez3.0 dataset depicting a Dama_1
+An example picture from the deteccion_piezas_ajedrez3.0 dataset depicting a Peon_0
+An example picture from the deteccion_piezas_ajedrez3.0 dataset depicting a Peon_1
+An example picture from the deteccion_piezas_ajedrez3.0 dataset depicting a Rey_0
+An example picture from the deteccion_piezas_ajedrez3.0 dataset depicting a Rey_1
+An example picture from the deteccion_piezas_ajedrez3.0 dataset depicting a Torre_0
+An example picture from the deteccion_piezas_ajedrez3.0 dataset depicting a Torre_1
+An example picture from the deteccion_piezas_ajedrez3.0 dataset depicting a blanco

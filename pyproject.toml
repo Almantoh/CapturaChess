@@ -2,7 +2,7 @@
 name = "04-lagloriosa"
 version = "0.1.0"
 description = ""
-authors = ["AntonioM <amoncayohern@gmail.com>"]
+authors = ["Antonio <mail@gmail.com>"]
 package-mode = false
 
 [tool.poetry.dependencies]
@@ -10,9 +10,9 @@ python = "^3.12"
 opencv-contrib-python = "^4.9.0.80"
 scipy = "^1.13.0"
 chess = "^1.10.0"
-torch = {version = "^2.3.1+cu121", source = "pytorch_cuda"}
+torch = {version = "^2.4.0+cu121", source = "pytorch_cuda"}
 ultralytics = "^8.2.34"
-torchvision = {version = "^0.18.1+cu121", source = "pytorch_cuda"}
+torchvision = {version = "^0.19.0+cu121", source = "pytorch_cuda"}
 customtkinter = "^5.2.2"
 cairosvg = "^2.7.1"
 windows-capture-devices = "1.0.0"

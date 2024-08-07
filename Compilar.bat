@@ -5,5 +5,5 @@ poetry run pyinstaller -D -w ^
 --add-data "src/_internal/icons:./icons"  ^
 --add-data "src/_internal/fuentes:./fuentes"  ^
 --add-data "D:/PoetryCache/virtualenvs/04-lagloriosa-mAynO3wB-py3.12/Lib/site-packages/ultralytics/cfg/default.yaml:./ultralytics/cfg" ^
---icon "D:/SecondoProg/Proyectaso/proyecto/04-LaGloriosa/src/_internal/icons/icon.png" ^
+--icon "src/_internal/icons/icon.png" ^
 src\main.py
